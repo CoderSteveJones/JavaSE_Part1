@@ -1,0 +1,16 @@
+package com.ym;
+
+import java.io.FileReader;
+import java.io.IOException;
+
+public class FileReaderDemo {
+
+	public static void main(String[] args) throws IOException {
+		FileReader reader = new FileReader("FileReaderDemo.java");
+		char ch;
+		while ((ch = (char)reader.read())!= -1) {
+			System.out.print(ch);
+		}
+		reader.close();
+	}
+}

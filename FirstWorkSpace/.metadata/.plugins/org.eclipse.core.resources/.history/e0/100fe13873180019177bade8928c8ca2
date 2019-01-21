@@ -1,0 +1,8 @@
+package com.ym01;
+
+public class NetDemo1 {
+
+	public static void main(String[] args) {
+		
+	}
+}

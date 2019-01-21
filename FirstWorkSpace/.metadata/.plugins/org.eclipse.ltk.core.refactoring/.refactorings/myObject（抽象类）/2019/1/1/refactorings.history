@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring accessors="true" comment="Delete element from project &apos;myObject（抽象类）&apos;&#x0A;- Original project: &apos;myObject（抽象类）&apos;&#x0A;- Original element: &apos;com.itheima_04.AbstractTest3.java&apos;" description="Delete element" element1="/src&lt;com.itheima_04{AbstractTest3.java" elements="1" flags="589830" id="org.eclipse.jdt.ui.delete" resources="0" stamp="1546587676070" subPackages="false" version="1.0"/>
+</session>

@@ -1,0 +1,9 @@
+package com.ym;
+
+
+public class Random {
+	public static void main(String[] args) {
+		Random r = new Random();
+		int a = r.ne
+	}
+}
